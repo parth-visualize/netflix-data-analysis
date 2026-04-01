@@ -48,4 +48,6 @@ The dataset contains information about Netflix titles including:
 
 ## 👨‍💻 Author
 Parth
-Data Analysis Project
+
+
+If you like this project, feel free to ⭐ the repository.
